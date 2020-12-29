@@ -1,12 +1,18 @@
 {
-  "token": "your_bot_token",
-  "owner": "your_discord_id",
+  "token": "NzkzNTc2NDk5NjgzOTE3ODc0.X-uRtQ.GSXYhsPl-1QlJzKTjf0v7Rwt-ec",
+  "owner": "547490179284467712",
   "prefixes": [
-    "/",
-    "!"
+    "L",
   ],
-  "adminRole": "some_role_id",
-  "modRole": "some_role_id",
+  "adminRole": [
+    "765714311426605106",
+    "768574880484163605",
+    "765714259191005194"
+  ],
+  "modRole": [
+    "783730464711770112",
+    "768575541338832896",
+  ],
   "privateChannels": [],
   "noLogServers": [],
   "noLogChannels": [],
@@ -32,12 +38,7 @@
   },
   "timezones": {
     "Eastern": "America/New_York",
-    "New Zealand": "Pacific/Auckland"
-  },
-  "comic": {
-    "channel": "busy_channel_id",
-    "users": {
-      "user_id": "user_name"
+
     }
   }
 }
